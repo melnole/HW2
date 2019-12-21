@@ -1,0 +1,10 @@
+i did a lot of work in the alphabet file but then at some point switched to prod bc i was worried that somehow it wouldn't work j
+in prod once i was done with alphabet. so the alphabet code is v far behind the stock code. it might not even run properly :)
+
+the conditional formatting goes through the entire column, i know i need to truncate the colors to just where there
+are values, and i have some ideas but didn't get a chance to try those things
+
+the "bonus" rows and headers are in fact populated with code, they are not hard coded
+
+the percentage format, it seemed to work but i killed it bc it was taking a long time. so i then manually in excel changed
+the cell format for 2015 and 2014. 2016 percent format was done with code.
